@@ -1,3 +1,4 @@
+
 .center {
 
   display: inline;
@@ -85,3 +86,11 @@ a:hover {
 a.header:hover {
   color: rgb(3, 3, 3);
 } */
+
+p.mavi {
+  color: yellowgreen;
+}
+
+a#anasayfa:link {
+  color:steelblue
+}
